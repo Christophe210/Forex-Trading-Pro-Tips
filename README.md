@@ -1,3 +1,4 @@
+![logo](https://github.com/Christophe210/Christophe210/blob/main/Chris.jpg) 
 <strong>Want to Learn Forex Trading?</strong> <br>
 Are you ready to build real income-generating skills and break free from the paycheck-to-paycheck life?
 Join my 2-week Forex Trading training and learn the exact strategies to trade confidently.
