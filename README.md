@@ -43,7 +43,7 @@ Trading gold against the USD (XAU / USD) :
 
 3. <strong>Asian Session (11:00 PM - 7:00 AM CAT):</strong> While not directly in your local daytime, it can still be relevant if you're planning to trade during late evening or early morning hours. <br>
 
-............................................................................................................................................................................
+............................................................................................................................................................................ <br>
 <strong>When choosing a forex broker,</strong> it's important to consider how easy and fast it is to deposit and withdraw your funds. Below is a brief overview of the deposit and withdrawal methods, along with the processing times for two popular brokers: IC Markets and XM Broker. Links to open demo or real accounts are also included.
 
 <br>
@@ -56,7 +56,7 @@ Trading gold against the USD (XAU / USD) :
 <strong>Processing Time:</strong> Deposits are instant for most methods. Withdrawals take 1–3 business days depending on the method.
 
 👉 [Open Demo Account](https://www.chrisofficial.com/learn-forex-trading/) 
-<br>
+<br><br><br>
 👉 [Open Real Account](https://www.chrisofficial.com/learn-forex-trading/)
 
 <strong>2. XM Broker</strong>
@@ -67,7 +67,7 @@ Trading gold against the USD (XAU / USD) :
 <strong>Processing Time:</strong> E-wallets within 24 hours, other methods 2–5 business days.
 
 👉 [Open Demo Account](https://www.chrisofficial.com/learn-forex-trading/) 
-<br>
+<br><br><br>
 👉 [Open Real Account](https://www.chrisofficial.com/learn-forex-trading/)
 
 
