@@ -66,8 +66,8 @@ Trading gold against the USD (XAU / USD) :
 
 <strong>Processing Time:</strong> E-wallets within 24 hours, other methods 2–5 business days.
 
-👉 [Open Demo Account](https://www.chrisofficial.com/learn-forex-trading/) 
+👉 [Open Demo Account](https://www.xmglobal.com/referral?token=8qwGrUqVgnQsNy5-VhIB2A) 
 <br><br>
-👉 [Open Real Account](https://www.chrisofficial.com/learn-forex-trading/)
+👉 [Open Real Account](https://www.xmglobal.com/referral?token=8qwGrUqVgnQsNy5-VhIB2A)
 
 
