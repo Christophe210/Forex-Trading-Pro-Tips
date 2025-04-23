@@ -55,9 +55,9 @@ Trading gold against the USD (XAU / USD) :
 
 <strong>Processing Time:</strong> Deposits are instant for most methods. Withdrawals take 1–3 business days depending on the method.
 
-👉 [Open Demo Account](https://www.chrisofficial.com/learn-forex-trading/) 
+👉 [Open Demo Account](https://icmarkets.com/?camp=83914) 
 <br><br>
-👉 [Open Real Account](https://www.chrisofficial.com/learn-forex-trading/)
+👉 [Open Real Account](https://icmarkets.com/?camp=83914)
 
 <strong>2. XM Broker</strong>
 <strong>Deposit Methods:</strong> Bank transfer, Visa/MasterCard, Neteller, Skrill, WebMoney, and local methods.
