@@ -34,7 +34,7 @@ The Most Trade Session:
 4. Sydney Session : 22:00 - 07:00
    > AUD /USD 
 
-Trading gold against the USD (XAU / USD) :
+Trading gold against the USD (XAU / USD) : <br>
 ..........................................
 
 1. <strong>London Session (9:00 AM - 5:00 PM CAT):</strong> This session overlaps with the end of the trading day in Europe and the beginning of the trading day in New York. It often sees increased liquidity and volatility for gold. <br>
