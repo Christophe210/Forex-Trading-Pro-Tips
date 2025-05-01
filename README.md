@@ -86,6 +86,7 @@ If the US economy is strong and rates are high, investors buy USD for higher yie
 How to Use This in Trading
 
 Step 1: Track USD Strength with the Dollar Index (DXY)
+......................................................... <br>
 
 DXY measures the USD vs a basket of other major currencies
 
@@ -97,6 +98,7 @@ When DXY goes down, USD is weaker → Gold may rise
 You can find DXY on most trading platforms like TradingView.
 
 Step 2: Check the Fundamental News
+..................................... <br>
 
 Look at economic indicators that affect USD:
 
@@ -112,6 +114,7 @@ Weak USD news = possible Gold rise
 
 
 Step 3: Use Technical Analysis to Confirm
+........................................... <br>
 
 Example setup:
 
