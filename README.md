@@ -43,6 +43,103 @@ Trading gold against the USD (XAU / USD) :
 
 3. <strong>Asian Session (11:00 PM - 7:00 AM CAT):</strong> While not directly in your local daytime, it can still be relevant if you're planning to trade during late evening or early morning hours. <br>
 
+............................................ <br>
+
+What Is Inverse Correlation (Gold vs USD)?
+
+When two assets have an inverse correlation, it means:
+
+When one goes up, the other usually goes down.
+
+
+This is typically true for Gold (XAU) and the US Dollar (USD):
+
+When USD strengthens, Gold tends to fall
+
+When USD weakens, Gold tends to rise
+
+
+
+---
+
+Why Does This Happen?
+
+1. Gold is priced in USD
+
+Gold is traded globally in US Dollars
+
+When the USD gets stronger, it takes fewer dollars to buy the same amount of gold – so Gold prices usually fall
+
+When the USD weakens, it takes more dollars to buy gold – so Gold prices rise
+
+
+2. Gold is a safe haven
+
+When the world fears inflation, recession, or crisis, traders often sell USD and buy Gold as a safe store of value
+
+If the US economy is strong and rates are high, investors buy USD for higher yields, and sell Gold
+
+
+
+---
+
+How to Use This in Trading
+
+Step 1: Track USD Strength with the Dollar Index (DXY)
+
+DXY measures the USD vs a basket of other major currencies
+
+When DXY goes up, USD is stronger → Gold may fall
+
+When DXY goes down, USD is weaker → Gold may rise
+
+
+You can find DXY on most trading platforms like TradingView.
+
+Step 2: Check the Fundamental News
+
+Look at economic indicators that affect USD:
+
+Interest Rate Hikes (Fed meetings)
+
+Inflation Reports (CPI, PPI)
+
+Employment Data (NFP)
+
+Strong USD news = possible Gold drop
+
+Weak USD news = possible Gold rise
+
+
+Step 3: Use Technical Analysis to Confirm
+
+Example setup:
+
+DXY is falling → USD weak
+
+XAU/USD shows bullish pattern (e.g., double bottom, bullish engulfing)
+
+Enter long trade on Gold with confirmation
+
+
+
+---
+
+Example in Action
+
+Let’s say:
+
+US inflation report is worse than expected (USD likely weakens)
+
+DXY drops from 106 to 104
+
+Gold jumps from $2,000 to $2,050
+
+
+That’s an inverse move you can trade with good timing!
+
+
+..................................................... <br>
 ............................................................................................................................................................................ <br>
 <strong>When choosing a forex broker,</strong> it's important to consider how easy and fast it is to deposit and withdraw your funds. Below is a brief overview of the deposit and withdrawal methods, along with the processing times for two popular brokers: IC Markets and XM Broker. Links to open demo or real accounts are also included.
 
