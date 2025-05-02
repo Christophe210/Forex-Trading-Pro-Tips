@@ -173,34 +173,36 @@ That’s an inverse move you can trade with good timing!
 <strong>Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:</strong> <br>
 
 🔹 EUR/USD News & Analysis <br>
-.................................... <br>
+................................................... <br>
 📍 Forex Factory (EUR News): <br>
 https://www.forexfactory.com/calendar?impact=3&curr=EUR
 
 📍 DailyFX EUR/USD Updates: <br>
 https://www.dailyfx.com/eur-usd
 
-📍 Investing.com EUR/USD News:
+📍 Investing.com EUR/USD News: <br>
 https://www.investing.com/currencies/eur-usd-news
 
-🔹 GBP/USD News & Analysis
-📍 Forex Factory (GBP News):
+🔹 GBP/USD News & Analysis <br>
+........................................................ <br>
+📍 Forex Factory (GBP News): <br>
 https://www.forexfactory.com/calendar?impact=3&curr=GBP
 
-📍 DailyFX GBP/USD Updates:
+📍 DailyFX GBP/USD Updates: <br>
 https://www.dailyfx.com/gbp-usd
 
-📍 Investing.com GBP/USD News:
+📍 Investing.com GBP/USD News: <br>
 https://www.investing.com/currencies/gbp-usd-news
 
-🔹 USD/JPY News & Analysis
-📍 Forex Factory (JPY News):
+🔹 USD/JPY News & Analysis <br>
+............................................................ <br>
+📍 Forex Factory (JPY News): <br>
 https://www.forexfactory.com/calendar?impact=3&curr=JPY
 
-📍 DailyFX USD/JPY Updates:
+📍 DailyFX USD/JPY Updates: <br>
 https://www.dailyfx.com/usd-jpy
 
-📍 Investing.com USD/JPY News:
+📍 Investing.com USD/JPY News: <br>
 https://www.investing.com/currencies/usd-jpy-news
 
 
