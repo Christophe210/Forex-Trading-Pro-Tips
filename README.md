@@ -22,9 +22,9 @@ To trade WTI Oil <br>
 ............................... <br>
 Best Times: New York Session (15:30–22:00 RW Time)
 <br>
-Link: Investing.com - Oil News <br>
-Link: OilPrice.com <br>
-................................................................... 
+Link: https://www.investing.com/news/commodities-news <br>
+Link:  https://oilprice.com/ <br>
+................................................................... <br>
 The Most Trade Session:
 .......................
 
