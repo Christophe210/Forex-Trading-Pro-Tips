@@ -172,11 +172,12 @@ That’s an inverse move you can trade with good timing!
 
 <strong>Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:</strong> <br>
 
-🔹 EUR/USD News & Analysis
-📍 Forex Factory (EUR News):
+🔹 EUR/USD News & Analysis <br>
+.................................... <br>
+📍 Forex Factory (EUR News): <br>
 https://www.forexfactory.com/calendar?impact=3&curr=EUR
 
-📍 DailyFX EUR/USD Updates:
+📍 DailyFX EUR/USD Updates: <br>
 https://www.dailyfx.com/eur-usd
 
 📍 Investing.com EUR/USD News:
