@@ -170,6 +170,40 @@ That’s an inverse move you can trade with good timing!
 <br><br>
 👉 [Open Real Account](https://www.xmglobal.com/referral?token=8qwGrUqVgnQsNy5-VhIB2A)
 
-Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:
+<strong>Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:</strong> <br>
+
+🔹 EUR/USD News & Analysis
+📍 Forex Factory (EUR News):
+https://www.forexfactory.com/calendar?impact=3&curr=EUR
+
+📍 DailyFX EUR/USD Updates:
+https://www.dailyfx.com/eur-usd
+
+📍 Investing.com EUR/USD News:
+https://www.investing.com/currencies/eur-usd-news
+
+🔹 GBP/USD News & Analysis
+📍 Forex Factory (GBP News):
+https://www.forexfactory.com/calendar?impact=3&curr=GBP
+
+📍 DailyFX GBP/USD Updates:
+https://www.dailyfx.com/gbp-usd
+
+📍 Investing.com GBP/USD News:
+https://www.investing.com/currencies/gbp-usd-news
+
+🔹 USD/JPY News & Analysis
+📍 Forex Factory (JPY News):
+https://www.forexfactory.com/calendar?impact=3&curr=JPY
+
+📍 DailyFX USD/JPY Updates:
+https://www.dailyfx.com/usd-jpy
+
+📍 Investing.com USD/JPY News:
+https://www.investing.com/currencies/usd-jpy-news
+
+
+
+
 
 
