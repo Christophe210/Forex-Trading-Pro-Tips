@@ -174,38 +174,58 @@ That’s an inverse move you can trade with good timing!
 
 <strong>🔹 EUR/USD News & Analysis </strong><br> 
 ................................................... <br>
-📍 Forex Factory (EUR News): <br>
-https://www.forexfactory.com/calendar?impact=3&curr=EUR
 
 📍 DailyFX EUR/USD Updates: <br>
 https://www.dailyfx.com/eur-usd
 
-📍 Investing.com EUR/USD News: <br>
-https://www.investing.com/currencies/eur-usd-news
 
 <strong>🔹 GBP/USD News & Analysis </strong> <br>
 ........................................................ <br>
-📍 Forex Factory (GBP News): <br>
-https://www.forexfactory.com/calendar?impact=3&curr=GBP
+
 
 📍 DailyFX GBP/USD Updates: <br>
 https://www.dailyfx.com/gbp-usd
 
-📍 Investing.com GBP/USD News: <br>
-https://www.investing.com/currencies/gbp-usd-news
 
 <strong>🔹 USD/JPY News & Analysis </strong> <br>
 ............................................................ <br>
-📍 Forex Factory (JPY News): <br>
-https://www.forexfactory.com/calendar?impact=3&curr=JPY
+
 
 📍 DailyFX USD/JPY Updates: <br>
 https://www.dailyfx.com/usd-jpy
 
-📍 Investing.com USD/JPY News: <br>
-https://www.investing.com/currencies/usd-jpy-news
 
+................................................................................................................ <br> 
 
+<strong>✅ Basic Definitions </strong> <br> 
+Long = Traders are buying the asset (expecting the price to go up)
+
+Short = Traders are selling the asset (expecting the price to go down)
+
+.....................................................................................................................<br>
+
+⚠️ But Be Careful: Crowd Sentiment ≠ Market Direction
+Many retail traders (normal traders like us) are often wrong, especially when they are all on one side. So:
+
+If too many are short → the price might actually go up (because big traders hunt stop losses)
+
+If too many are long → the price might drop
+
+This is known as contrarian sentiment analysis.
+
+✅ How You Can Use It in Trading
+Use it as a filter with your strategy (don’t rely on it alone).
+
+If most traders are short, wait for a possible buy opportunity.
+
+Combine it with:
+
+Support/resistance
+
+Breakouts or retests
+
+Price action   <br>
+........................................................................................................
 
 
 
