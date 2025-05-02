@@ -170,4 +170,6 @@ That’s an inverse move you can trade with good timing!
 <br><br>
 👉 [Open Real Account](https://www.xmglobal.com/referral?token=8qwGrUqVgnQsNy5-VhIB2A)
 
+Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:
+
 
