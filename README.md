@@ -18,7 +18,13 @@ Tips:
 3. Support & Resistance
 4. Moving Average 
 
-
+To trade WTI Oil <br>
+............................... <br>
+Best Times: New York Session (15:30–22:00 RW Time)
+<br>
+Link: Investing.com - Oil News <br>
+Link: OilPrice.com <br>
+................................................................... 
 The Most Trade Session:
 .......................
 
