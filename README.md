@@ -178,6 +178,8 @@ That’s an inverse move you can trade with good timing!
 
 <strong>Here are the best and direct news links to follow updates for EUR/USD, GBP/USD, and USD/JPY:</strong> <br>
 
+https://www.youtube.com/@camelthornfx
+
 <strong>🔹 EUR/USD News & Analysis </strong><br> 
 ................................................... <br>
 
