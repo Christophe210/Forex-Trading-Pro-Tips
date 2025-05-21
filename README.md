@@ -14,9 +14,9 @@ RSI Value:
 
 Tips:
 ........
-1. RSI (Relative  Strength Index)
-2. Candle Stick Patterns
-3. Support & Resistance
+1. Support & Resistance
+2. RSI (Relative  Strength Index)
+3. Candle Stick Patterns
 4. Moving Average 
 
 To trade WTI Oil <br>
