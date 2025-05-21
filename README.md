@@ -1,5 +1,4 @@
 
-
 ![logo](https://github.com/Christophe210/Christophe210/blob/main/Forex.jpeg) 
 <strong>Want to Learn Forex Trading?</strong> <br>
 Are you ready to build real income-generating skills and break free from the paycheck-to-paycheck life?
