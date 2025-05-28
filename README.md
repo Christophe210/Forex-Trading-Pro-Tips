@@ -235,6 +235,18 @@ Breakouts or retests
 Price action   <br>
 ........................................................................................................
 
+Trading Schedule in Rwanda Time (CAT):
 
+Monday: 10:00 am and 4:00 pm
+
+Tuesday: 3:00 pm
+
+Wednesday: 10:00 am and 3:30 pm
+
+Thursday: 3:00 pm
+
+Friday: 10:00 am and 3:00 pm
+
+Saturday: 3:00 pm
 
 
